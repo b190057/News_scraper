@@ -11,6 +11,7 @@ SCRAPER_LOG_FILENAME = 'scraper_log'
 # DATA PATH
 DATA_PATH = os.path.join(BASE_PATH, 'data')
 CSV_FILENAME = 'data_extracted.csv'
+ANSWER_FILENAME = 'answer.txt'
 
 # CONSTANTS FOR WEBPAGES
 MAIN_WEBPAGE = "https://news.ycombinator.com/"

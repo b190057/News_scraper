@@ -1,0 +1,31 @@
+Filter all previous entries with more than five words in the title ordered by the number of comments first
+                                                title  n_order  n_comments      points
+1   AlphaFold 3 predicts the structure and interac...      2.0         330  729 points
+22  'Underwater bicycle' propels swimmers forward ...     23.0         212  398 points
+16  Stack Overflow users deleting answers after Op...     17.0         110   93 points
+9   Show HN: AI climbing coach – visualize how to ...     10.0         100  189 points
+26  Ointers: A library for representing pointers w...     27.0          84  114 points
+5        Show HN: I built a non-linear UI for ChatGPT      6.0          79  258 points
+6   How to Use the Foreign Function API in Java 22...      7.0          71  141 points
+7   TimesFM: Time Series Foundation Model for time...      8.0          68  206 points
+25  A Portal Connecting NYC to Dublin Opens in Fla...     26.0          56   86 points
+0   Consistency LLM: converting LLMs to parallel d...      1.0          52  234 points
+15  English learners can now practice speaking on ...     16.0          30   73 points
+14               Using AirPods as a Morse Transmitter     15.0          29  119 points
+23                Pair Your Compilers at the ABI Café     24.0          26   95 points
+24  Launch HN: Baselit (YC W23) – Automatically Re...     25.0          24   31 points
+2            A Scientific Run-Down of Coffee Blooming      3.0          23   58 points
+4   Industrial Design Student Work: "How Long Shou...      5.0          20   52 points
+19  Zimtohrli: A New Psychoacoustic Perceptual Met...     20.0          20   73 points
+12                    The Waning Reign of the Muskrat     13.0          19  100 points
+20  Breathwork supports emergence of altered state...     21.0           7   31 points
+11      How enterprise software is like baby clothing     12.0           2    7 points
+18  Japanese Trade Publications Helped Japan Form ...     19.0           1   50 points
+3   Show HN: SimBricks – Modular Full-System Simul...      4.0           1   14 points
+Filter all previous entries with less than or equal to five words in the title ordered by points
+                                      title  n_order    n_comments  points
+21                    Steve Albini has died     22.0  126 comments     392
+8   Development Notes from xkcd's "Machine"      9.0   49 comments     362
+29         The Bloody History of 'Deadline'     30.0   12 comments      91
+28   Psql-describe: \d ported to JavaScript     29.0   21 comments      35
+10                 Radius Full Page Display     11.0    9 comments      34
